@@ -14,7 +14,7 @@ body{
 
 .pokemonData{
     font-weight: 600;
-    color: #CD5C5C;
+    color: #778899;
     top:54.5%;
     right: 27%;
     font-family: pokemon;
@@ -23,7 +23,7 @@ body{
 }
 .pokemonName{
     text-transform: capitalize;
-    color: #5F9EA0;
+    color: #808080;
 }
 .pokedex {
     width: 100%;
@@ -32,10 +32,10 @@ body{
 
 .pokemonImage{
     position: absolute;
-    left: 30%;
-    bottom: 50%;
-    max-height: 20%;
-    width: 30%;
+    left: 50%;
+    bottom: 55%;
+    height: 18%;
+    transform: translate(-63%, 20%);
     
 }
 
