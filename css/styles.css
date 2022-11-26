@@ -15,7 +15,7 @@ body{
 .pokemonData{
     font-weight: 600;
     color: #778899;
-    top: 49%;
+    top: 39vh;
     right: 27%;
     font-family: pokemon;
     position: absolute;
